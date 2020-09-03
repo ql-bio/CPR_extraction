@@ -33,7 +33,7 @@ See below for an overview of the model architecture:
 - tqdm (tested on 4.42.1)
 
 ## Download Resources
-+ [Model config and model weights](https://drive.google.com/file/d/1Kj38ghYC4ExNG-mLNTuSzF1MX-1lonwM/view?usp=sharing)
++ [Model config and model weights](https://drive.google.com/file/d/1PHMcongiYZzy0d8J5pbiy_4RkYWuIWmd/view?usp=sharing)
 
 ## Evaluation
 we have conducted experiments on the ChemProt corpus and DDIExtraction 2013 corpus
