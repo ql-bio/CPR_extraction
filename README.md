@@ -12,27 +12,38 @@ See below for an overview of the model architecture:
 
 ## Requirements
 
-- Python 3 (tested on 3.6.8)
+- Python 3 (tested on 3.6.10)
 
-- PyTorch (tested on 0.4.1)
+- PyTorch (tested on 1.3.1)
 
-- CUDA (tested on 9.0)
+- CUDA (tested on 10.1.243)
 
-- tqdm
+- pytorch_pretrained_bert (tested on 0.6.1)
 
-- unzip, wget (for downloading only)
+- botocore (tested on 1.12.189)
+
+- tensorflow (tested on 1.15.0)
+
+- boto3 (tested on 1.9.162)
+
+- requests (tested on 2.22.0)
+
+- numpy (tested on 1.19.1)
+
+- tqdm (tested on 4.42.1)
 
 
 ## Evaluation
-we have also conducted experiments on the ChemProt corpus and the DDIExtraction 2013 corpus
+we have conducted experiments on the ChemProt corpus and DDIExtraction 2013 corpus
 
 Testing on CPI extraction
 ```
 python3 eval_cpi.py
 ```
 
+Testing on DDI extraction.
+Before run it, please modify the configuration information under /utils/constant.py
 
-Testing on DDI extraction
 ```
 python3 eval_ddi.py
 ```
