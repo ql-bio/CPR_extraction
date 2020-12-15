@@ -6,7 +6,7 @@ The paper has been accepted by 2020 IEEE International Conference on Bioinformat
 
 Conference: December 16-19, 2020
 
-The Program can be found on the + [Conference Website](https://ieeebibm.org/BIBM2020/) by clicking Program on the left hand menu.
+The Program can be found on the [Conference Website](https://ieeebibm.org/BIBM2020/) by clicking Program on the left hand menu.
 
 
 See below for an overview of the model architecture:
