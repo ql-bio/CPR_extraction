@@ -5,6 +5,7 @@ The model consists of ChemicalBERT and Attention Guided Graph Convolutional Netw
  [The paper has been accepted by 2020 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2020).](https://ieeebibm.org/BIBM2020/BIBM%202020%20Accepted%20Paper%20list.docx)
 
 Conference: December 16-19, 2020
+
 The Program can be found on the [Conference Website](https://ieeebibm.org/BIBM2020/) by clicking Program on the left hand menu.
 
 See below for an overview of the model architecture:
